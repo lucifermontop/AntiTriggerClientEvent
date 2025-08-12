@@ -1,0 +1,5 @@
+Config {
+    events = {
+        "esx:removeAccountMoney"
+    }
+}
